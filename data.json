@@ -6,9 +6,9 @@
 	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
 	"AdmobNativeAdId":"ca-app-pub-3940256099942544/224769110",
 	"AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712",
-	"AdsBannerStack":"admob,fb,unity",
+	"AdsBannerStack":"fb,unity,admob",
 	"AdsInterstitialStack":"admob,fb,unity",
-	"AdsNativeStack":"admob,fb,unity"
+	"AdsNativeStack":"fb,unity,admob"
   },
   "images":[
 	  "1.jpg",
