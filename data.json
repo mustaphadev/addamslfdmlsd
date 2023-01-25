@@ -2,10 +2,22 @@
   "settings":{
 	"ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/imgs/",
 	"PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/previews/",
+	  
 	"AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
 	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
 	"AdmobNativeAdId":"ca-app-pub-3940256099942544/224769110",
 	"AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712",
+	"AdmobRewardedAdId":"ca-app-pub-3940256099942544/5224354917",
+	"AppOpenId":"ca-app-pub-3940256099942544/3419835294",
+	  
+	"FacebookAppId":"",
+	"FacebookBannerAdId":"",
+	"FacebookInterstitialAdId":"",
+	"FacebookNativeAdId":"",
+	"FacebookRewardAdId":"",
+	  
+	"UnityGameId":"5136312",
+	  
 	"AdsBannerStack":"fb,unity,admob",
 	"AdsInterstitialStack":"admob,fb,unity",
 	"AdsNativeStack":"fb,unity,admob"
