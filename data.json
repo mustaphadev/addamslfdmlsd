@@ -20,7 +20,8 @@
 	  
 	"AdsBannerStack":"fb,unity,admob",
 	"AdsInterstitialStack":"admob,fb,unity",
-	"AdsNativeStack":"fb,unity,admob"
+	"AdsNativeStack":"fb,unity,admob",
+	"AdsRewardStack":"admob,admob,admob"
   },
   "images":[
 	  "1.jpg",
