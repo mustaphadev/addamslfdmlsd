@@ -18,10 +18,10 @@
 	  
 	"UnityGameId":"5136312",
 	  
-	"AdsBannerStack":"unity,unity,unity",
-	"AdsInterstitialStack":"unity,unity,unity",
+	"AdsBannerStack":"admob,admob,admob",
+	"AdsInterstitialStack":"admob,admob,admob",
 	"AdsNativeStack":"admob,admob,admob",
-	"AdsRewardStack":"unity,unity,unity"
+	"AdsRewardStack":"admob,admob,admob"
   },
   "images":[
 	  "1.jpg",
