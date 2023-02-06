@@ -2,14 +2,14 @@
   "settings":{
 	"ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/imgs/",
 	"PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/previews/",
-	"EnableAds":"False",
+	"EnableAds":"True",
 	  
-	"AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
-	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
-	"AdmobNativeAdId":"ca-app-pub-3940256099942544/224769110",
-	"AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712",
-	"AdmobRewardedAdId":"ca-app-pub-3940256099942544/5224354917",
-	"AppOpenId":"ca-app-pub-3940256099942544/3419835294",
+	"AdmobAppId":"ca-app-pub-6841670917459367~6774138783",
+	"AdmobBannerAdId":"ca-app-pub-6841670917459367/1034178203",
+	"AdmobNativeAdId":"ca-app-pub-6841670917459367/2155688186",
+	"AdmobInterstitialAdId":"ca-app-pub-6841670917459367/1521812105",
+	"AdmobRewardedAdId":"ca-app-pub-6841670917459367/6582567093",
+	"AppOpenId":"ca-app-pub-6841670917459367/6094933197",
 	  
 	"FacebookAppId":"",
 	"FacebookBannerAdId":"",
