@@ -2,6 +2,7 @@
   "settings":{
 	"ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/imgs/",
 	"PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/addamslfdmlsd/gfhfryr/previews/",
+	"EnableAds":"False",
 	  
 	"AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
 	"AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
